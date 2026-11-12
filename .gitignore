@@ -1,0 +1,29 @@
+
+# Compiled Java files
+*.class
+/bin/
+/out/
+/build/
+/target/
+
+# Local application data
+/data/
+/data_backup/
+
+# Eclipse workspace metadata
+.metadata/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Keep release directory available
+!release/
